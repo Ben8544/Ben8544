@@ -1,6 +1,7 @@
 Bonjour Benoît
 <?php
-print "hello world ".time();
+$time = date('Y-m-d', ( time() ) );
+print "le jour est  ".$time;
 ?>
 <html>
 <body>
