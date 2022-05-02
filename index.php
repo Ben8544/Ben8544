@@ -6,7 +6,7 @@ print "nous sommes le ".$time;
 <html>
 <body>
 hello world
-  <script charset="utf-8" src="https://widgetv3.bandsintown.com/main.min.js"></script>
+  <script charset="utf-8" src="main.min.js"></script>
   <a class="bit-widget-initializer"
     
 	data-artist-name="id_5321744"
